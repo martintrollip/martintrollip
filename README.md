@@ -29,15 +29,16 @@ I build mobile apps with Flutter and sometimes native.
 <br/>
 
 <!-- source: https://devicon.dev/ -->
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+<table align="center" width="100%" style="border-collapse: collapse; border: none;" boder="0">
     <tr>
-        <td align="center"><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter logo" title="Flutter" /> <!-- Flutter --></td>
+        <td border=0 style="border: none;"><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter logo" title="Flutter" /> <!-- Flutter --></td>
         <td style="border: none;"><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Android logo" title="Android" /> <!-- Android --></td>
         <td style="border: none;"><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="iOS logo" title="iOS" /> <!-- iOS --></td>
         <td style="border: none;"><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular logo" title="Angular" /> <!-- Angular --></td>
         <td style="border: none;"><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase logo" title="Firebase" /> <!-- Firebase --></td>
         <td style="border: none;"><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot logo" title="Spring Boot" /> <!-- Spring Boot --></td>
         <td style="border: none;"><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java FX logo" title="Java FX and Swing" /> <!-- Java FX --></td>
+        <td style="border: none;"><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" /> <!-- Python --></td>
         <td style="border: none;"><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React Native logo" title="React Native" /> <!-- React Native --></td>
         <td style="border: none;"><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="MATLAB and Simulink logo" title="MATLAB and Simulink" /> <!-- MATLAB and Simulink --></td>
         <td style="border: none;"><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original.svg" alt="LabVIEW logo" title="LabVIEW" /> <!-- LabVIEW --></td>
