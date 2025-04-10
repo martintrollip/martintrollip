@@ -29,7 +29,7 @@ I build mobile apps with Flutter and sometimes native.
 <br/>
 
 <!-- source: https://devicon.dev/ -->
-<table align="center" width="100%">
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
     <tr>
         <td align="center"><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter logo" title="Flutter" /> <!-- Flutter --></td>
         <td><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Android logo" title="Android" /> <!-- Android --></td>
