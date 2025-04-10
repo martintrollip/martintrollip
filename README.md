@@ -29,9 +29,9 @@ I build mobile apps with Flutter and sometimes native.
 <br/>
 
 <!-- source: https://devicon.dev/ -->
-<table align="center" width="100%" style="border-collapse: collapse; border: none;" boder="0">
+<table align="center" width="100%" style="border-collapse: collapse; border: none;" border="0" cellpadding="0" cellspacing="0">
     <tr>
-        <td border=0 style="border: none;"><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter logo" title="Flutter" /> <!-- Flutter --></td>
+        <td style="border: none;"><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter logo" title="Flutter" /> <!-- Flutter --></td>
         <td style="border: none;"><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Android logo" title="Android" /> <!-- Android --></td>
         <td style="border: none;"><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="iOS logo" title="iOS" /> <!-- iOS --></td>
         <td style="border: none;"><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular logo" title="Angular" /> <!-- Angular --></td>
