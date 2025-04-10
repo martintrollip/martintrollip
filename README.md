@@ -31,7 +31,7 @@ I build mobile apps with Flutter and sometimes native.
 <!-- source: https://devicon.dev/ -->
 <table align="center" width="100%">
     <tr>
-        <td align="center" width="10%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter logo" title="Flutter" /> <!-- Flutter --></td>
+        <td align="center" width="10%"><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter logo" title="Flutter" /> <!-- Flutter --></td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Android logo" title="Android" /> <!-- Android --></td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="iOS logo" title="iOS" /> <!-- iOS --></td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular logo" title="Angular" /> <!-- Angular --></td>
