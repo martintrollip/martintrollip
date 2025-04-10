@@ -19,12 +19,13 @@ I build mobile apps with Flutter and sometimes native.
 
 
 <a href="https://github.com/martintrollip">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=martintrollip&show_icons=true&count_private=true&theme=dark&rank_icon=github&hide_border=true" />
+    <img height=200 width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=martintrollip&show_icons=true&count_private=true&theme=dark&rank_icon=github&hide_border=true" />
 </a>
 <a href="https://github.com/martintrollip">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martintrollip&layout=compact&hide_border=true&theme=dark&langs_count=5&hide=jupyter%20notebook,tex,css,php,objective-c" />
+    <img height=200 width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martintrollip&layout=compact&hide_border=true&theme=dark&langs_count=5&hide=jupyter%20notebook,tex,css,php,objective-c" />
 </a>
 
+<br/>
 <br/>
 
 <!-- source: https://devicon.dev/ -->
